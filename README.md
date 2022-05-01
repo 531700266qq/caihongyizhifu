@@ -57,6 +57,6 @@ location ^~ /includes {
 源码下载~！
 限时免费~！易支付源码，内涵最新监控端
 sspanel-metron对接易支付插件 自行去TG群下载
-付费代搭建进![进TG群](https://t.me/huashengkeji1)
+付费代搭建进[进TG群](https://t.me/huashengkeji1)
 
 
